@@ -79,4 +79,3 @@ info:
   build.artifactId: $project.artifactId$
   build.version: $project.version$
 
-microservicecloud-config-eureka-client-7001
